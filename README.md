@@ -137,7 +137,6 @@ The executable will be generated in the `dist/` folder.
 ## 👤 Author
 
 **Amish Kaushik Dutta**
-Roll No: 24EA4CS05
 
 ---
 
