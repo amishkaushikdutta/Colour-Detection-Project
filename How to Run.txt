@@ -1,0 +1,6 @@
+Open the .exe file in the dist folder and select the image of your choice.
+
+The Sample image is just for example we can use any image of our own
+
+Thank you
+Amish Kaushik Dutta
